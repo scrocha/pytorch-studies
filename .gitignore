@@ -177,3 +177,11 @@ pytorch_tutorials/
 
 datasets/
 
+__pycache__/
+section/
+Models/
+.ipynb_checkpoints/
+.idea/
+.gz
+.pt
+.vscode/
